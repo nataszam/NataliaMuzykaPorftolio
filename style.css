@@ -44,7 +44,7 @@ nav ul li a:after {
   left: 0;
   width: 0;
   height: 3px;
-  background: #76dfd5;;
+  background: #52e0d7;
   transition: 0.3s;
   bottom: 0;
 }
@@ -63,13 +63,13 @@ nav ul li a:hover:after {
   font-weight: 500;
   transition: all 0.4s ease-in-out;
   background-size: 152% 100%;
-  background: #84f7eb;
-  border: 2px solid #76dfd5;
+  background: #52e0d7;
+  border: 2px solid #52e0d7;
 }
 .btn:hover {
   background: transparent;
-  border-color: #abe7f2;
-  color: #abe7f2;
+  border-color: #52e0d7;
+  color: #52e0d7;
 }
 .content {
   position: absolute;
@@ -102,7 +102,7 @@ nav ul li a:hover:after {
   width: 82%;
 }
 .content h1 span {
-  color: #84f7eb;
+  color: #52e0d7;
 }
 .content p {
   width: 58%;
@@ -123,7 +123,7 @@ nav ul li a:hover:after {
 .right-sidebar img {
   max-width: 80%;
   height: 40%; 
-border: 2px solid #76dfd5;}
+border: 2px solid #52e0d7;}
 
 footer { 
     margin-top: 510px;
